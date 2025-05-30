@@ -34,7 +34,7 @@
 <section id="about" class="py-10 bg-white">
   <div class="container mx-auto grid md:grid-cols-3 gap-8 text-center">
     <div>
-      <h3 class="font-semibold text-blue-600 mb-2">Kỹ năng</h3>
+      <h3 class="font-semibold text-blue-600 mb-2">Kỹ năngzzzz</h3>
       <ul class="text-gray-700 list-disc list-inside text-left inline-block">
         <li>Node.js / Express</li>
         <li>RESTful API</li>
